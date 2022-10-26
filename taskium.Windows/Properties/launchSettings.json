@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"taskium.Windows (Package)": {
+			"commandName": "MsixPackage"
+		},
+		"taskium.Windows (Unpackaged)": {
+			"commandName": "Project"
+		}
+	}
+}

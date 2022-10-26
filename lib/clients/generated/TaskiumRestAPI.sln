@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskiumRestAPI", "src\TaskiumRestAPI\TaskiumRestAPI.csproj", "{58D4B913-0520-48C9-8B3A-9C53E11B37AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskiumRestAPI.Test", "src\TaskiumRestAPI.Test\TaskiumRestAPI.Test.csproj", "{19F1DEBC-DE5E-4517-8062-F000CD499087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58D4B913-0520-48C9-8B3A-9C53E11B37AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D4B913-0520-48C9-8B3A-9C53E11B37AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D4B913-0520-48C9-8B3A-9C53E11B37AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D4B913-0520-48C9-8B3A-9C53E11B37AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

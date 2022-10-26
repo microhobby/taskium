@@ -1,0 +1,12 @@
+{
+  "solution": {
+    "path": "taskium.sln",
+    "projects": [
+		"taskium.Shared\\taskium.Shared.shproj",
+
+
+		"taskium.Wasm\\taskium.Wasm.csproj",
+
+    ]
+  }
+}

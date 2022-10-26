@@ -1,0 +1,158 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/castello/tmp/matheuscastello/taskium/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+InterpFtnDesc	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/pinvoke.h	/^} InterpFtnDesc;$/;"	t	typeref:struct:__anoncfb3bf5f0208
+MARSHAL_ARRAY_BYTE	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/corebindings.c	/^#define MARSHAL_ARRAY_BYTE /;"	d	file:
+MARSHAL_ARRAY_BYTE	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_ARRAY_BYTE /;"	d	file:
+MARSHAL_ARRAY_DOUBLE	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/corebindings.c	/^#define MARSHAL_ARRAY_DOUBLE /;"	d	file:
+MARSHAL_ARRAY_DOUBLE	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_ARRAY_DOUBLE /;"	d	file:
+MARSHAL_ARRAY_FLOAT	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/corebindings.c	/^#define MARSHAL_ARRAY_FLOAT /;"	d	file:
+MARSHAL_ARRAY_FLOAT	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_ARRAY_FLOAT /;"	d	file:
+MARSHAL_ARRAY_INT	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/corebindings.c	/^#define MARSHAL_ARRAY_INT /;"	d	file:
+MARSHAL_ARRAY_INT	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_ARRAY_INT /;"	d	file:
+MARSHAL_ARRAY_SHORT	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/corebindings.c	/^#define MARSHAL_ARRAY_SHORT /;"	d	file:
+MARSHAL_ARRAY_SHORT	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_ARRAY_SHORT /;"	d	file:
+MARSHAL_ARRAY_UBYTE	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/corebindings.c	/^#define MARSHAL_ARRAY_UBYTE /;"	d	file:
+MARSHAL_ARRAY_UBYTE	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_ARRAY_UBYTE /;"	d	file:
+MARSHAL_ARRAY_UBYTE_C	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/corebindings.c	/^#define MARSHAL_ARRAY_UBYTE_C /;"	d	file:
+MARSHAL_ARRAY_UBYTE_C	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_ARRAY_UBYTE_C /;"	d	file:
+MARSHAL_ARRAY_UINT	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/corebindings.c	/^#define MARSHAL_ARRAY_UINT /;"	d	file:
+MARSHAL_ARRAY_UINT	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_ARRAY_UINT /;"	d	file:
+MARSHAL_ARRAY_USHORT	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/corebindings.c	/^#define MARSHAL_ARRAY_USHORT /;"	d	file:
+MARSHAL_ARRAY_USHORT	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_ARRAY_USHORT /;"	d	file:
+MARSHAL_TYPE_BOOL	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_BOOL /;"	d	file:
+MARSHAL_TYPE_CHAR	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_CHAR /;"	d	file:
+MARSHAL_TYPE_DATE	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_DATE /;"	d	file:
+MARSHAL_TYPE_DATEOFFSET	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_DATEOFFSET /;"	d	file:
+MARSHAL_TYPE_DELEGATE	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_DELEGATE /;"	d	file:
+MARSHAL_TYPE_ENUM	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_ENUM /;"	d	file:
+MARSHAL_TYPE_FP32	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_FP32 /;"	d	file:
+MARSHAL_TYPE_FP64	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_FP64 /;"	d	file:
+MARSHAL_TYPE_INT	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_INT /;"	d	file:
+MARSHAL_TYPE_INT64	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_INT64 /;"	d	file:
+MARSHAL_TYPE_OBJECT	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_OBJECT /;"	d	file:
+MARSHAL_TYPE_SAFEHANDLE	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_SAFEHANDLE /;"	d	file:
+MARSHAL_TYPE_STRING	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_STRING /;"	d	file:
+MARSHAL_TYPE_STRING_INTERNED	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_STRING_INTERNED /;"	d	file:
+MARSHAL_TYPE_TASK	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_TASK /;"	d	file:
+MARSHAL_TYPE_UINT32	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_UINT32 /;"	d	file:
+MARSHAL_TYPE_UINT64	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_UINT64 /;"	d	file:
+MARSHAL_TYPE_URI	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_URI /;"	d	file:
+MARSHAL_TYPE_VOID	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_VOID /;"	d	file:
+MARSHAL_TYPE_VT	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MARSHAL_TYPE_VT /;"	d	file:
+MONO_ICALL_TABLE_CALLBACKS_VERSION	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define MONO_ICALL_TABLE_CALLBACKS_VERSION /;"	d	file:
+MonoGCDescriptor	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^typedef SgenDescriptor MonoGCDescriptor;$/;"	t	typeref:typename:SgenDescriptor	file:
+MonoIcallTableCallbacks	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^} MonoIcallTableCallbacks;$/;"	t	typeref:struct:__anon2033344a0108	file:
+NEED_INTERP	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define NEED_INTERP /;"	d	file:
+NEED_NORMAL_ICALL_TABLES	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define NEED_NORMAL_ICALL_TABLES /;"	d	file:
+NULL	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/pinvoke.c	/^#define NULL /;"	d	file:
+PinvokeImport	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/pinvoke.h	/^} PinvokeImport;$/;"	t	typeref:struct:__anoncfb3bf5f0108
+RUNTIMECONFIG_BIN_FILE	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define RUNTIMECONFIG_BIN_FILE /;"	d	file:
+SgenDescriptor	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^typedef target_mword SgenDescriptor;$/;"	t	typeref:typename:target_mword	file:
+WasmAssembly	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^typedef struct WasmAssembly_ WasmAssembly;$/;"	t	typeref:struct:WasmAssembly_	file:
+WasmAssembly_	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^struct WasmAssembly_ {$/;"	s	file:
+WasmSatelliteAssembly	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^typedef struct WasmSatelliteAssembly_ WasmSatelliteAssembly;$/;"	t	typeref:struct:WasmSatelliteAssembly_	file:
+WasmSatelliteAssembly_	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^struct WasmSatelliteAssembly_ {$/;"	s	file:
+__PINVOKE_H__	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/pinvoke.h	/^#define __PINVOKE_H__$/;"	d
+__anon2033344a0108	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^typedef struct {$/;"	s	file:
+__anoncfb3bf5f0108	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/pinvoke.h	/^typedef struct {$/;"	s
+__anoncfb3bf5f0208	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/pinvoke.h	/^typedef struct {$/;"	s
+arg	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/pinvoke.h	/^	void *arg;$/;"	m	struct:__anoncfb3bf5f0208	typeref:typename:void *
+assemblies	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^static WasmAssembly *assemblies;$/;"	v	typeref:typename:WasmAssembly *	file:
+assembly	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^	MonoBundledAssembly assembly;$/;"	m	struct:WasmAssembly_	typeref:typename:MonoBundledAssembly	file:
+assembly	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^	MonoBundledSatelliteAssembly *assembly;$/;"	m	struct:WasmSatelliteAssembly_	typeref:typename:MonoBundledSatelliteAssembly *	file:
+assembly_count	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^static int assembly_count;$/;"	v	typeref:typename:int	file:
+class_is_task	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^class_is_task (MonoClass *klass)$/;"	f	typeref:typename:int	file:
+cleanup_runtime_config	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^cleanup_runtime_config (MonovmRuntimeConfigArguments *args, void *user_data)$/;"	f	typeref:typename:void
+compare_int	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^compare_int (const void *k1, const void *k2)$/;"	f	typeref:typename:int	file:
+core_initialize_internals	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/corebindings.c	/^void core_initialize_internals ()$/;"	f	typeref:typename:void
+datetime_class	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^static MonoClass* datetime_class;$/;"	v	typeref:typename:MonoClass *	file:
+datetimeoffset_class	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^static MonoClass* datetimeoffset_class;$/;"	v	typeref:typename:MonoClass *	file:
+func	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/pinvoke.h	/^	void *func;$/;"	m	struct:__anoncfb3bf5f0108	typeref:typename:void *
+func	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/pinvoke.h	/^	void *func;$/;"	m	struct:__anoncfb3bf5f0208	typeref:typename:void *
+g_new	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define g_new(/;"	d	file:
+g_new0	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^#define g_new0(/;"	d	file:
+get_native_to_interp	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^get_native_to_interp (MonoMethod *method, void *extra_arg)$/;"	f	typeref:typename:void *
+icall_table_lookup	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^icall_table_lookup (MonoMethod *method, char *classname, char *methodname, char *sigstart, int32/;"	f	typeref:typename:void *	file:
+icall_table_lookup_symbol	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^icall_table_lookup_symbol (void *func)$/;"	f	typeref:typename:const char *	file:
+lookup	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^	void* (*lookup) (MonoMethod *method, char *classname, char *methodname, char *sigstart, int32_t/;"	m	struct:__anon2033344a0108	typeref:typename:void * (*)(MonoMethod * method,char * classname,char * methodname,char * sigstart,int32_t * uses_handles)	file:
+lookup_icall_symbol	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^	const char* (*lookup_icall_symbol) (void* func);$/;"	m	struct:__anon2033344a0108	typeref:typename:const char * (*)(void * func)	file:
+mono_get_uri_class	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^MonoClass* mono_get_uri_class(MonoException** exc)$/;"	f	typeref:typename:MonoClass *
+mono_initialize_internals	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^void mono_initialize_internals ()$/;"	f	typeref:typename:void
+mono_unbox_int	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_unbox_int (MonoObject *obj)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE int
+mono_wasm_add_assembly	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_add_assembly (const char *name, const unsigned char *data, unsigned int size)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE int
+mono_wasm_add_satellite_assembly	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_add_satellite_assembly (const char *name, const char *culture, const unsigned char *da/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE void
+mono_wasm_array_get	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_array_get (MonoArray *array, int idx)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE MonoObject *
+mono_wasm_array_length	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_array_length (MonoArray *array)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE int
+mono_wasm_assembly_already_added	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_assembly_already_added (const char *assembly_name)$/;"	f	typeref:typename:int
+mono_wasm_assembly_find_class	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_assembly_find_class (MonoAssembly *assembly, const char *namespace, const char *name)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE MonoClass *
+mono_wasm_assembly_find_method	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_assembly_find_method (MonoClass *klass, const char *name, int arguments)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE MonoMethod *
+mono_wasm_assembly_get_entry_point	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_assembly_get_entry_point (MonoAssembly *assembly)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE MonoMethod *
+mono_wasm_assembly_load	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_assembly_load (const char *name)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE MonoAssembly *
+mono_wasm_box_primitive	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_box_primitive (MonoClass *klass, void *value, int value_size)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE MonoObject *
+mono_wasm_compile_function	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/corebindings.c	/^mono_wasm_compile_function (MonoString *str, int *is_exception)$/;"	f	typeref:typename:MonoObject *	file:
+mono_wasm_deregister_root	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_deregister_root (char *addr)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE void
+mono_wasm_enable_gc	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^int mono_wasm_enable_gc = 1;$/;"	v	typeref:typename:int
+mono_wasm_enable_on_demand_gc	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_enable_on_demand_gc (int enable)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE void
+mono_wasm_ensure_classes_resolved	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^void mono_wasm_ensure_classes_resolved ()$/;"	f	typeref:typename:void
+mono_wasm_exec_regression	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_exec_regression (int verbose_level, char *image)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE int
+mono_wasm_exit	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_exit (int exit_code)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE int
+mono_wasm_find_corlib_class	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_find_corlib_class (const char *namespace, const char *name)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE MonoClass *
+mono_wasm_get_delegate_invoke	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_get_delegate_invoke (MonoObject *delegate)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE MonoMethod *
+mono_wasm_get_obj_type	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_get_obj_type (MonoObject *obj)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE int
+mono_wasm_intern_string	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_intern_string (MonoString *string) $/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE MonoString *
+mono_wasm_invoke_js	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_invoke_js (MonoString *str, int *is_exception)$/;"	f	typeref:typename:MonoString *	file:
+mono_wasm_invoke_method	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_invoke_method (MonoMethod *method, MonoObject *this_arg, void *params[], MonoObject **/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE MonoObject *
+mono_wasm_load_runtime	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_load_runtime (const char *unused, int debug_level)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE void
+mono_wasm_marshal_type_from_mono_type	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_marshal_type_from_mono_type (int mono_type, MonoClass *klass, MonoType *type)$/;"	f	typeref:typename:int
+mono_wasm_obj_array_new	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_obj_array_new (int size)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE MonoArray *
+mono_wasm_obj_array_set	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_obj_array_set (MonoArray *array, int idx, MonoObject *obj)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE void
+mono_wasm_parse_runtime_options	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_parse_runtime_options (int argc, char* argv[])$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE void
+mono_wasm_pinvoke_vararg_stub	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/pinvoke.c	/^mono_wasm_pinvoke_vararg_stub (void)$/;"	f	typeref:typename:void
+mono_wasm_register_bundled_satellite_assemblies	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_register_bundled_satellite_assemblies ()$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE void
+mono_wasm_register_root	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_register_root (char *start, size_t size, const char *name)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE int
+mono_wasm_set_main_args	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_set_main_args (int argc, char* argv[])$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE void
+mono_wasm_setenv	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_setenv (const char *name, const char *value)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE void
+mono_wasm_strdup	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_strdup (const char *s)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE int
+mono_wasm_string_array_new	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_string_array_new (int size)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE MonoArray *
+mono_wasm_string_convert	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_string_convert (MonoString *str)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE void
+mono_wasm_string_from_js	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_string_from_js (const char *str)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE MonoString *
+mono_wasm_string_from_utf16	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_string_from_utf16 (const mono_unichar2 * chars, int length)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE MonoString *
+mono_wasm_string_get_data	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_string_get_data ($/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE void
+mono_wasm_string_get_utf8	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_string_get_utf8 (MonoString *str)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE char *
+mono_wasm_try_unbox_primitive_and_get_type	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^mono_wasm_try_unbox_primitive_and_get_type (MonoObject *obj, void *result)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE int
+mono_wasm_typed_array_new	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/corebindings.c	/^mono_wasm_typed_array_new (char *arr, int length, int size, int type)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE MonoArray *
+mono_wasm_unbox_enum	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/corebindings.c	/^mono_wasm_unbox_enum (MonoObject *obj)$/;"	f	typeref:typename:EMSCRIPTEN_KEEPALIVE int
+name	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/pinvoke.h	/^	const char *name;$/;"	m	struct:__anoncfb3bf5f0108	typeref:typename:const char *
+next	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^	WasmAssembly *next;$/;"	m	struct:WasmAssembly_	typeref:typename:WasmAssembly *	file:
+next	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^	WasmSatelliteAssembly *next;$/;"	m	struct:WasmSatelliteAssembly_	typeref:typename:WasmSatelliteAssembly *	file:
+resolved_datetime_class	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^static int resolved_datetime_class = 0,$/;"	v	typeref:typename:int	file:
+resolved_datetimeoffset_class	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^	resolved_datetimeoffset_class = 0,$/;"	v	typeref:typename:int	file:
+resolved_safehandle_class	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^	resolved_safehandle_class = 0,$/;"	v	typeref:typename:int	file:
+resolved_task_class	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^	resolved_task_class = 0,$/;"	v	typeref:typename:int	file:
+resolved_uri_class	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^	resolved_uri_class = 0,$/;"	v	typeref:typename:int	file:
+resolved_voidtaskresult_class	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^	resolved_voidtaskresult_class = 0;$/;"	v	typeref:typename:int	file:
+root_domain	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^static MonoDomain *root_domain;$/;"	v	typeref:typename:MonoDomain *	file:
+safehandle_class	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^static MonoClass* safehandle_class;$/;"	v	typeref:typename:MonoClass *	file:
+satellite_assemblies	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^static WasmSatelliteAssembly *satellite_assemblies;$/;"	v	typeref:typename:WasmSatelliteAssembly *	file:
+satellite_assembly_count	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^static int satellite_assembly_count;$/;"	v	typeref:typename:int	file:
+sysglobal_native_handle	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^static void *sysglobal_native_handle;$/;"	v	typeref:typename:void *	file:
+target_mword	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^typedef uint32_t target_mword;$/;"	t	typeref:typename:uint32_t	file:
+task_class	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^static MonoClass* task_class;$/;"	v	typeref:typename:MonoClass *	file:
+uri_class	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^static MonoClass* uri_class;$/;"	v	typeref:typename:MonoClass *	file:
+version	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^	int version;$/;"	m	struct:__anon2033344a0108	typeref:typename:int	file:
+voidtaskresult_class	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^static MonoClass* voidtaskresult_class;$/;"	v	typeref:typename:MonoClass *	file:
+wasm_dl_get_native_to_interp	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/pinvoke.c	/^wasm_dl_get_native_to_interp (const char *key, void *extra_arg)$/;"	f	typeref:typename:void *
+wasm_dl_is_pinvoke_table	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/pinvoke.c	/^wasm_dl_is_pinvoke_table (void *handle)$/;"	f	typeref:typename:int
+wasm_dl_load	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^wasm_dl_load (const char *name, int flags, char **err, void *user_data)$/;"	f	typeref:typename:void *	file:
+wasm_dl_lookup_pinvoke_table	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/pinvoke.c	/^wasm_dl_lookup_pinvoke_table (const char *name)$/;"	f	typeref:typename:void *
+wasm_dl_symbol	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^wasm_dl_symbol (void *handle, const char *name, char **err, void *user_data)$/;"	f	typeref:typename:void *	file:
+wasm_trace_logger	taskium.Wasm/bin/Debug/net6.0/dist/package_1164501345dd0eb89336855cce41fdc1e8ab1abb/driver.c	/^wasm_trace_logger (const char *log_domain, const char *log_level, const char *message, mono_bool/;"	f	typeref:typename:void	file:

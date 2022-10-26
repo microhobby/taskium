@@ -1,0 +1,194 @@
+<Page
+    x:Class="taskium.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:taskium"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"    
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="Arial" />
+        </Style>
+
+        <Style TargetType="Button">
+            <Setter Property="FontFamily" Value="Arial" />
+        </Style>
+
+        <Style TargetType="TextBox">
+            <Setter Property="FontFamily" Value="Arial" />
+        </Style>
+
+        <!-- <Style TargetType="ScrollBar">
+            <Setter Property="MinWidth" Value="80" />
+            <Setter Property="IsTabStop" Value="false"/>
+        </Style>
+
+        <Style TargetType="Thumb">
+            <Setter Property="MinWidth" Value="80" />
+            <Setter Property="IsTabStop" Value="false"/>
+        </Style> -->
+    </Page.Resources>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <!-- Header -->
+            <RowDefinition Height="62" />
+            <!-- Content -->
+            <RowDefinition Height="1*" />
+            <!-- Footer -->
+            <RowDefinition Height="30" />
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+            <Rectangle
+                Grid.Row="0"
+                Grid.ColumnSpan="4"
+                Fill="#27343b" />
+
+            <Image
+                Width="110"
+                Margin="0,5,0,5"
+                Source="Assets/logo.png"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Grid.Row="0"
+                Grid.Column="0"
+                Grid.ColumnSpan="4"/>
+
+            <!-- <Button
+                Tag=""
+                CornerRadius="20"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Right"
+                Margin="10"
+                Height="40"
+                Width="85"
+                Grid.Row="0"
+                Grid.Column="3"
+                Content="Trigger">
+            </Button> -->
+            <!-- Header End -->
+
+            <!-- Footer -->
+            <StackPanel
+                Orientation="Horizontal"
+                Background="#14222b"
+                Grid.Row="3"
+                Grid.Column="0"
+                Grid.ColumnSpan="4">
+
+            </StackPanel>
+            <!-- Footer End -->
+
+            <!-- Content -->
+            <SplitView
+                x:Name="splitView"
+                IsPaneOpen="True"
+                DisplayMode="CompactInline"
+                Background="#202c33"
+                PaneBackground="#14222b"
+                Grid.Row="1"
+                Grid.Column="0"
+                Grid.ColumnSpan="4"
+                OpenPaneLength="195">
+
+                <SplitView.Pane>
+
+                    <!-- menu -->
+                    <StackPanel
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Top"
+                        Padding="12">
+                        
+                        <!-- <Button
+                            Content="Running Tasks"
+                            Tag="runningView"
+                            FontSize="15"
+                            FontWeight="Bold"
+                            Style="{StaticResource TextBlockButtonStyle}"
+                            Foreground="#ffffff"
+                            Margin="0,0,0,0"/> -->
+
+                        <Button
+                            Content="All Tasks"
+                            Tag="tasksView"
+                            FontSize="15"
+                            FontWeight="Bold"
+                            Style="{StaticResource TextBlockButtonStyle}"
+                            Foreground="#ffffff"
+                            Margin="0,20,0,0"
+                            Click="ButtonClick" />
+
+                        <Button
+                            Content="New Task"
+                            Tag="newTaskView"
+                            FontSize="15"
+                            FontWeight="Bold"
+                            Style="{StaticResource TextBlockButtonStyle}"
+                            Foreground="#ffffff"
+                            Margin="0,20,0,0"
+                            Click="ButtonClick" />
+
+                        <Button
+                            Content="About"
+                            Tag="aboutView"
+                            FontSize="15"
+                            FontWeight="Bold"
+                            Style="{StaticResource TextBlockButtonStyle}"
+                            Foreground="#ffffff"
+                            Margin="0,20,0,0"
+                            Click="ButtonClick" />
+
+                    </StackPanel>
+                </SplitView.Pane>
+
+                <!-- pages -->
+                <Grid>
+                    
+                    <Frame
+                        Name="ContentFrame"
+                        Margin="0,0,0,0">
+                    </Frame>
+                </Grid>
+            </SplitView>
+        <!-- Content End -->
+
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup x:Name="SizeStateGroup">
+            
+                <VisualState x:Name="WideState">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger
+                            MinWindowHeight="0"
+                            MinWindowWidth="900" />
+                    </VisualState.StateTriggers>
+                    
+                    <VisualState.Setters>
+                        <Setter
+                            Target="splitView.(SplitView.DisplayMode)"
+                            Value="Inline" />
+                    </VisualState.Setters>
+                </VisualState>
+
+                <VisualState x:Name="NarrowState">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger
+                            MinWindowHeight="0"
+                            MinWindowWidth="0" />
+                    </VisualState.StateTriggers>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+    </Grid>
+</Page>

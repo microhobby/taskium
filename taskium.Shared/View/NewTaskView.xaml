@@ -1,0 +1,79 @@
+<Page
+    x:Class="taskium.NewTaskView"
+    xmlns:local="using:taskium"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:muxc="using:Microsoft.UI.Xaml.Controls"
+    xmlns:toolkit="using:Microsoft.Toolkit.Uwp.UI.Controls" 
+    mc:Ignorable="d"
+    Loaded="PageLoaded">
+
+    <Page.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="Arial" />
+        </Style>
+
+        <Style TargetType="Button">
+            <Setter Property="FontFamily" Value="Arial" />
+        </Style>
+
+        <Style TargetType="TextBox">
+            <Setter Property="FontFamily" Value="Arial" />
+            <Setter Property="Margin" Value="10" />
+            <Setter Property="Background" Value="#14222B" />
+        </Style>
+
+        <!-- <Style TargetType="ScrollBar">
+            <Setter Property="MinWidth" Value="80" />
+            <Setter Property="IsTabStop" Value="false"/>
+        </Style>
+
+        <Style TargetType="Thumb">
+            <Setter Property="MinWidth" Value="80" />
+            <Setter Property="IsTabStop" Value="false"/>
+        </Style> -->
+    </Page.Resources>
+
+    <StackPanel
+        Grid.Row="0"
+        x:Name="PanelTasks"
+        HorizontalAlignment="Stretch" 
+        VerticalAlignment="Stretch" 
+        Orientation="Vertical"
+        Height="Auto" 
+        Margin="10">
+        
+        <TextBlock
+            DockPanel.Dock="Top"
+            Text="Trigger New Task:" />
+
+        <TextBox
+            DockPanel.Dock="Top"
+            Name="InputName"
+            PlaceholderText="Name" />
+
+        <TextBox
+            DockPanel.Dock="Top"
+            Name="InputRepo"
+            PlaceholderText="Git Repository" />
+
+        <TextBox
+            DockPanel.Dock="Top"
+            Name="InputBranch"
+            PlaceholderText="Branch" />
+
+        <TextBox
+            DockPanel.Dock="Top"
+            Name="InputTaskLabel"
+            PlaceholderText="Task Label" />
+
+        <Button
+            DockPanel.Dock="Top"
+            HorizontalAlignment="Right"
+            Name="ButtonSubmit"
+            Content="Trigger"
+            Click="ButtonSubmitClick" />
+    </StackPanel>
+</Page>

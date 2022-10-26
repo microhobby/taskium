@@ -1,0 +1,89 @@
+<Page
+    x:Class="taskium.AboutInfoView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DockerClone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="Arial" />
+        </Style>
+
+        <Style TargetType="Button">
+            <Setter Property="FontFamily" Value="Arial" />
+        </Style>
+
+        <Style TargetType="TextBox">
+            <Setter Property="FontFamily" Value="Arial" />
+        </Style>
+
+        <Style TargetType="ScrollBar">
+            <Setter Property="MinWidth" Value="80" />
+            <Setter Property="IsTabStop" Value="false"/>
+        </Style>
+
+        <Style TargetType="Thumb">
+            <Setter Property="MinWidth" Value="80" />
+            <Setter Property="IsTabStop" Value="false"/>
+        </Style>
+    </Page.Resources>
+
+    <!-- system data -->
+    <StackPanel
+        x:Name="PanelAboutData"
+        Visibility="Visible"
+        VerticalAlignment="Top"
+        Orientation="Vertical">
+        
+        <Image
+            x:Name="ImageLogo"
+            Height="146"
+            Source="Assets/logo.png"
+            Margin="0,20,0,0"
+            HorizontalAlignment="Stretch"
+            VerticalAlignment="Stretch"
+            RenderTransformOrigin="0.5,0.5">
+        
+            <Image.RenderTransform>
+                <ScaleTransform ScaleX="1.0" ScaleY="1.0" />
+            </Image.RenderTransform>
+        </Image>
+
+        <TextBlock
+            x:Name="LabelTaskium"
+            HorizontalAlignment="Center"
+            Margin="0,20,0,0"
+            Text="Taskium v0.0.0 2022"
+            FontSize="20"
+            FontWeight="Bold"/>
+
+        <TextBlock
+            x:Name="LabelAbout"
+            HorizontalAlignment="Center"
+            Text="Taskium uses VS Code tasks.json from git repositories to create a UI front end to trigger tasks."
+            FontSize="20"
+            Margin="0,20,0,0"
+            Foreground="#979797"/>
+
+        <TextBlock
+            x:Name="LabelAbout2"
+            HorizontalAlignment="Center"
+            Text="Taskium is a proudly Brazilian project develop by Matheus Castello"
+            FontSize="20"
+            Margin="0,10,0,0"
+            Foreground="#979797"/>
+
+        <HyperlinkButton
+            HorizontalAlignment="Center"
+            NavigateUri="https://twitter.com/math_castello"
+            Content="@microhobby"
+            Margin="0,10,0,0"
+            FontSize="20"
+            Foreground="#979797" />
+        
+    </StackPanel>
+
+</Page>
